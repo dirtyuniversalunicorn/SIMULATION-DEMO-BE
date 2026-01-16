@@ -21,7 +21,8 @@ Please, follow the steps below to run the application locally.
    - Create a `.env` file in the root of the project.
    - Add the required environment variables.
 
-> ⚠️ The environment variables were **provided via email**..   
+> ⚠️ The environment variables were **provided via email**..
+   
 5. Start the server. Server will start on port 3000.
    ```bash
    node index.js
