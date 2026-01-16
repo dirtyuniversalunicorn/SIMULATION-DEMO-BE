@@ -1,8 +1,6 @@
 # SIMULATION-DEMO-BE
 
-## Setup
-
-Follow the steps below to run the application locally.
+Please, follow the steps below to run the application locally.
 
 ### Prerequisites
 - Node.js (recommended: LTS version)
