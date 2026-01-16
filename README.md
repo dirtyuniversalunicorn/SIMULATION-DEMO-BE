@@ -3,7 +3,7 @@
 Please, follow the steps below to run the application locally.
 
 ### Prerequisites
-- Node.js (recommended: LTS version)
+- Node.js
 - npm
 
 ### Installation
