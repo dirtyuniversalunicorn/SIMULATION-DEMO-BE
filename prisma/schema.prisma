@@ -1,0 +1,24 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model Unit {
+  id          String   @id
+  type        String
+  callsign    String
+  team        String
+  positionLat Float
+  positionLng Float
+  destLat     Float
+  destLng     Float
+  speed       Float
+  task        String
+  damage      Float?   @default(0)
+  ammo        Int?     @default(100)
+  createdAt   DateTime @default(now())
+}
