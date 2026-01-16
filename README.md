@@ -22,6 +22,7 @@ Please, follow the steps below to run the application locally.
    - Add the required environment variables.
 
 > ⚠️ The environment variables were shared *via* **one time** link from the service https://onetimesecret.com/.
+> In case something went wrong, feel free to reach out to me: jaroslavfilo95@gmail.com
    
 5. Start the server. Server will start on port 3000.
    ```bash
