@@ -17,6 +17,11 @@ Please, follow the steps below to run the application locally.
 3. Run
    ```bash
    npx prisma generate
-4. Start the server. Server will start on port 3000
+4. Before running the application, you need to set up your environment variables.
+   - Create a `.env` file in the root of the project.
+   - Add the required environment variables.
+
+> ⚠️ The environment variables were **provided via email**..   
+5. Start the server. Server will start on port 3000.
    ```bash
    node index.js
