@@ -1,6 +1,6 @@
-# Project Name
+# SIMULATION-DEMO-BE
 
-## 🚀 Getting Started
+## Setup
 
 Follow the steps below to run the application locally.
 
