@@ -24,6 +24,6 @@ Please, follow the steps below to run the application locally.
 > ⚠️ The environment variables were shared *via* email, containing **one time** link from the service https://onetimesecret.com/.
 > If anything goes wrong, don’t hesitate to contact me at: jaroslavfilo95@gmail.com
    
-5. Start the server. Server will start on port 3000.
+5. Start the server. The server will start on port 3000.
    ```bash
    node index.js
