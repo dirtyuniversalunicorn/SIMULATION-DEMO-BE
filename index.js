@@ -85,4 +85,6 @@ setInterval(() => {
   io.emit("simulation:update", { timer: getSimulationTimer() });
 }, WS_CONFIG.TICK_RATE);
 
-server.listen(3000, () => console.log("Server running on port 3000"));
+server.listen(WS_CONFIG.PORT, () =>
+  console.log(`Server running on port ${WS_CONFIG.PORT}`),
+);
